@@ -18,7 +18,7 @@ class _EntryScreenState extends State<EntryScreen> {
 
   void routeToLogin() async {
     await Future.delayed(const Duration(seconds: 5));
-    Navigator.pushReplacementNamed(context, WelcomePage.id);
+    //Navigator.pushReplacementNamed(context, WelcomePage.id);
   }
 
   @override
