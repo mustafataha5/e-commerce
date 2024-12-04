@@ -2,6 +2,8 @@
 
 Welcome to **Istanbul Mall**, an online platform that brings the vibrant and diverse shopping experience of Istanbul to your fingertips! Whether you're browsing for the latest fashion trends, exploring local goods, or discovering new cuisines, Istanbul Mall is your one-stop digital destination.
 
+
+
 ---
 
 ## 🌟 **Key Features**
@@ -17,6 +19,40 @@ Welcome to **Istanbul Mall**, an online platform that brings the vibrant and div
 
 ---
 
+
+
+---
+
+## 🖼️ **Screenshots**
+
+Here are some screenshots of the **Istanbul Mall** platform:
+- **Entry Page**  
+  ![Entry Page](images/entry.png)
+
+
+- **Main Page**  
+  ![Main Page](images/main.png)
+  
+- **Product Listings**  
+  ![Product Listings](images/items.png)
+
+- **Shopping Cart**  
+  ![Shopping Cart](images/cart.png)
+
+- **Order Overview**  
+  ![Order Overview](images/order.png)
+
+  --**Admin**
+  
+- **Admin Dashboard**  
+  ![Admin Dashboard](images/admin_add_item.png)
+
+- **Item Management**  
+  ![Item Management](images/admin_item.png)
+
+- **Order Management**  
+  ![Order Management](images/admin_order.png)
+----
 ## 💻 **Tech Stack**
 
 - **Frontend (Admin Site)**:
@@ -45,35 +81,6 @@ Welcome to **Istanbul Mall**, an online platform that brings the vibrant and div
   - **AWS S3**: For storing images and other media files. AWS S3 provides scalable object storage for applications, ensuring high availability and security for uploaded images.
   - **AWS SDK**: To interact with AWS S3 from your Node.js backend, enabling easy upload, retrieval, and management of files.
 
----
-
-## 🖼️ **Screenshots**
-
-Here are some screenshots of the **Istanbul Mall** platform:
-
-- **Admin Dashboard**  
-  ![Admin Dashboard](images/admin_add_item.png)
-
-- **Item Management**  
-  ![Item Management](images/admin_item.png)
-
-- **Order Management**  
-  ![Order Management](images/admin_order.png)
-
-- **Shopping Cart**  
-  ![Shopping Cart](images/cart.png)
-
-- **Entry Page**  
-  ![Entry Page](images/entry.png)
-
-- **Product Listings**  
-  ![Product Listings](images/items.png)
-
-- **Main Page**  
-  ![Main Page](images/main.png)
-
-- **Order Overview**  
-  ![Order Overview](images/order.png)
 
 ---
 
