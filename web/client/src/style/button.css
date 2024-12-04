@@ -1,0 +1,43 @@
+/* Button base styling */
+.delete-btn {
+    border: 1px solid transparent;
+    border-radius: 30px;
+    padding: 8px 15px;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 14px;
+    transition: all 0.3s ease-in-out;
+    cursor: pointer;
+    display: inline-block;
+    margin-right: 10px;
+  }
+  
+  /* Edit button styling */
+  .delete-btn.edit {
+    background: linear-gradient(45deg, #4CAF50, #2D7D31); /* Green gradient */
+    color: white;
+    border: 1px solid #4CAF50;
+  }
+  
+  /* Delete button styling */
+  .delete-btn.delete {
+    background: linear-gradient(45deg, #F44336, #D32F2F); /* Red gradient */
+    color: white;
+    border: 1px solid #F44336;
+  }
+  
+  /* Hover effects */
+  .delete-btn:hover {
+    transform: scale(1.05);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+  
+  .delete-btn.edit:hover {
+    background-color: #388E3C;
+    border-color: #388E3C;
+  }
+  
+  .delete-btn.delete:hover {
+    background-color: #C62828;
+    border-color: #C62828;
+  }

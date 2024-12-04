@@ -1,0 +1,6 @@
+web/server/.env
+web/server/node_modules/
+web/server/serviceAccountKey.json
+web/server/core.json
+web/server/s3-admin_accessKeys.csv
+
